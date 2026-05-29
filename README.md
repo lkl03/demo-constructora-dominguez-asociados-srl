@@ -1,2 +1,7 @@
-# demo-constructora-dominguez-asociados-srl
-Demo web para Constructora Dominguez &amp; Asociados SRL — diseñada por eterlab.
+# Constructora Dominguez & Asociados SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
